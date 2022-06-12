@@ -1,0 +1,9 @@
+body {
+    background-color: beige ;
+  }
+#container{
+    background-color: darkblue;
+    border: 8px solid green;
+    color: aliceblue;
+    border-style: dashed;
+  }
